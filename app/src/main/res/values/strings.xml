@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FireAssist</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">Register</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Match</string>
+    <string name="error_valid_password">Incorrect Password</string>
+    <string name="text_member">Already a Member? Login</string>
+    <string name="hint_place_name">Place Name</string>
+    <string name="text_save">Save</string>
+    <string name="text_done">Done</string>
+    <string name="text_save_exit_points">Save Exit Points</string>
+    <string name="text_latitude">Latitude :</string>
+    <string name="text_longitude">Longitude :</string>
+    <string name="error_message_place">Enter Place Name</string>
+    <string name="success_message_Location">Location Saved</string>
+    <string name="error_location_save">Location Already Saved</string>
+    <string name="error">Error: </string>
+    <string name="error_device_Incompatible">Device Not Compatible</string>
+    <string name="text_altitude">Altitude :</string>
+    <string name="location_direction">Towards Exit Location</string>
+
+
+</resources>
